@@ -1,0 +1,6 @@
+[submodule "l298n_ros2_control"]
+	path = l298n_ros2_control
+	url = https://github.com/AlekseiGri/l298n_ros2_control
+[submodule "l298n_bringup"]
+	path = l298n_bringup
+	url = https://github.com/AlekseiGri/l298n_bringup
