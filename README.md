@@ -11,6 +11,8 @@ A differential drive mobile robot built on the DF Robot platform.
 * **Operating system:** Ubuntu Server 22.04 (aarch64)
 * **Middleware:** ROS 2 Humble Hawksbill
 
+<img width="1328" height="1770" alt="image" src="https://github.com/user-attachments/assets/8c37ac07-7c1d-4411-bb66-a43c0705f334" />
+
 ---
 
 ## 📁 Repository Structure
@@ -87,5 +89,6 @@ L298N motor driver
 * `diff_drive_controller` subscribes to `TwistStamped`
 
 ---
+
 
 
