@@ -4,3 +4,10 @@
 [submodule "l298n_bringup"]
 	path = l298n_bringup
 	url = https://github.com/AlekseiGri/l298n_bringup
+[submodule "ds4_driver"]
+	path = ds4_driver
+	url = https://github.com/AlekseiGri/ds4_driver
+	branch = humble-devel
+[submodule "vlm_pilot"]
+	path = vlm_pilot
+	url = https://github.com/AlekseiGri/vlm_pilot
